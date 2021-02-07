@@ -6,6 +6,9 @@ LiveData 則屬於泛型資料類別：https://ithelp.ithome.com.tw/articles/102
 
 1. timer 的使用方式
 
+   CountDownTimer 官方網站資源：https://developer.android.com/reference/android/os/CountDownTimer
+   此類別隸屬於安卓系統模組包。
+
 
          // 設定如下常數為數字型態，且設定初始值
          COUNTDOWN_TIME = 60000L
